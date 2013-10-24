@@ -1,0 +1,5 @@
+short_open_tag = On
+upload_max_filesize = 20M
+file/image/; file/data; file/data/item/; file/data/index/; file/data/count/; file/data/developer/; 777 
+
+

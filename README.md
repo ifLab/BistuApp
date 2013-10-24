@@ -1,4 +1,6 @@
 BistuApp
 ========
 
-Bistu App
+BistuApp
+
+http://app.bistu.edu.cn
